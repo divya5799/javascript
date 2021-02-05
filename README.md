@@ -27,7 +27,7 @@ Example: ``` let name = "divya" ```
        
 Earlier the keyword **var** was used.
   
- - [Why don’t we use var anymore?] (https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
+ - [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
  
 
 
